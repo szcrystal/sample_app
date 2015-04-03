@@ -3,6 +3,15 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+サンプルアプリケーション
+
+localhost:3000
+
+cd /sample_app
+サーバー起動：rails server
+サーバー終了：ctrl + c
+
+
 Things you may want to cover:
 
 * Ruby version
