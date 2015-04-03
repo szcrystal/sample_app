@@ -8,7 +8,9 @@ application up and running.
 localhost:3000
 
 cd /sample_app
+
 サーバー起動：rails server
+
 サーバー終了：ctrl + c
 
 
